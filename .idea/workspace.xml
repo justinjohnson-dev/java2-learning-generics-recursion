@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IBag.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -95,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/model/SortedBag.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#add#0;class#SortedBag#0" />
@@ -108,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/model/UnsortedBag.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#252#253#0" expanded="true" />
@@ -499,7 +499,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543473665814" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543474517315" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -528,16 +528,15 @@
       <updated>1543471939116</updated>
       <workItem from="1543471940913" duration="1746000" />
       <workItem from="1543473814308" duration="109000" />
-      <workItem from="1543474079245" duration="150000" />
+      <workItem from="1543474079245" duration="268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2005000" />
+    <option name="totallyTimeSpent" value="2123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25531915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -611,7 +610,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/model/UnsortedBag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#252#253#0" expanded="true" />
@@ -627,7 +626,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/model/SortedBag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#add#0;class#SortedBag#0" />
@@ -651,7 +650,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IBag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
