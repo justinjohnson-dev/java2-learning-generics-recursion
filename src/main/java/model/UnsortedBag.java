@@ -3,20 +3,22 @@ package model;
 import interfaces.IBag;
 import java.util.ArrayList;
 
-public class UnsortedBag implements IBag {
+public class UnsortedBag<E extends Comparable> implements IBag<E> {
+    private ArrayList<E> bag = new ArrayList<>();
 
-    private ArrayList<Bag> data = new ArrayList<>();
-
-    // null values for now
     public void add(E item) {
+        bag.add(item);
     }
+
     public E remove() {
-        return E;
+        return bag.remove(0);
     }
+
     public boolean contains(E item) {
-        return true;
+        return bag.contains(item);
     }
+
     public boolean empty() {
-        return true;
+        return bag.isEmpty();
     }
 }
