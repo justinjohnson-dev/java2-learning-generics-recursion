@@ -1,8 +1,8 @@
 package interfaces;
 
-public interface IBag {
-    public void add(E item);
-    public E remove();
-    public boolean contains(E item);
-    public boolean empty();
+public interface IBag<E> {
+    void add(E item);
+    E remove();
+    boolean contains(E item);
+    boolean empty();
 }
