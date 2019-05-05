@@ -23,9 +23,3 @@ Running program with .jar file in terminal
 * `cd out/`
 * `cd artifacts/`
 * `java -jar java_application_main_jar/java-application_main.jar`
-
-*Program for my Java 2 Object Orientated Programming Course*
-
-```
-Currently a sophomore at Concordia University Saint Paul
-```
