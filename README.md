@@ -16,6 +16,8 @@ java -version
 ```
 
 ## Get Started
+Running program with .jar file in terminal
+
 * Clone this repository
 * `cd` into the project folder
 * `cd out/`
