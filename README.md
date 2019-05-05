@@ -8,9 +8,9 @@ and finally removing everything in the bag sorted/unsorted.
 
 ## Prerequisites
 
-### jdk 10.0.2
-Be sure jdk is on your machine. I am currently running 10.0.2
-Check your java version with
+### Java Development Kit (JDK)
+Be sure JDK is on your machine. I am currently running 10.0.2
+Check your Java version with
 ```
 java -version
 ```
