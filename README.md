@@ -23,3 +23,9 @@ Running program with .jar file in terminal
 * `cd out/`
 * `cd artifacts/`
 * `java -jar java_application_main_jar/java-application_main.jar`
+
+## Sorted Bag
+<img width="366" alt="sorted" src="https://user-images.githubusercontent.com/23105078/57306189-00b21c00-70a8-11e9-84b2-550f103c5181.png">
+
+## Unsorted Bag
+<img width="372" alt="unsorted" src="https://user-images.githubusercontent.com/23105078/57306201-04de3980-70a8-11e9-84d1-d0e0b9ca519f.png">
